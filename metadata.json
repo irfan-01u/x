@@ -1,0 +1,8 @@
+{
+  "name": " NOTIQ — Study. Track. Level Up.",
+  "description": "Comprehensive student productivity, precision study timers, Pomodoro engine, academic syllabus progress, spaced revision, competitive leagues, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
